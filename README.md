@@ -14,7 +14,7 @@ Here's an short overview of what it does:
 ## Screenshots
 
 
-![Screenshot]([[https://raw.githubusercontent.com/your-username/your-repo/main/images/your-image.png](https://github.com/zeddricc/led-scroller/blob/main/image.png?raw=true)])
+![Screenshot]([[[https://raw.githubusercontent.com/your-username/your-repo/main/images/your-image.png](https://raw.githubusercontent.com/zeddricc/led-scroller/refs/heads/main/image.png))
 
 
 
