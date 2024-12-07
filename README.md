@@ -12,8 +12,8 @@ Here's an short overview of what it does:
 
 
 ## Screenshots
-![Screenshot1](link-to-screenshot1.png)
-![Screenshot2](link-to-screenshot2.png)
+![Screenshot1]([link-to-screenshot1.png](https://raw.githubusercontent.com/zeddricc/led-scroller/refs/heads/main/image.png))
+
 
 
 
